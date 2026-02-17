@@ -143,6 +143,12 @@ header{
     filter: brightness(0.5);
 }
 
+#generate-btn:disabled{
+    background-color: var(--primary-color);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.8) inset;
+    filter: brightness(0.5);
+}
+
 
 
 @keyframes loader{
@@ -186,3 +192,4 @@ header{
     }
 
 }
+
