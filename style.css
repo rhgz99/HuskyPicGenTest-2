@@ -23,7 +23,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url(/Assets/background/ChatGPT\ Image\ Feb\ 16\,\ 2026\,\ 09_06_17\ PM.png);
+    background: url(Assets/background/ChatGPT\ Image\ Feb\ 16\,\ 2026\,\ 09_06_17\ PM.png);
     background-size: 300%;
     animation: bgmove 12s infinite ease;
     overflow: hidden;
@@ -184,4 +184,5 @@ header{
     100%{
         background-position: 0%;
     }
+
 }
